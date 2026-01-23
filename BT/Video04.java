@@ -1,4 +1,3 @@
-package BT;
 
 public class Video04 {
     public static class Node {

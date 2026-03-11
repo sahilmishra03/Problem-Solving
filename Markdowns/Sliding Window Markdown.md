@@ -1,11 +1,6 @@
 # Complete Sliding Window Problems
 
 ## 1. Fixed Size Sliding Window Practice Problems
-
-These problems keep the **window size fixed (k)** while sliding across the array/string.
-
----
-
 ### Beginner Level
 
 1. Maximum Sum Subarray of Size K — (GeeksforGeeks) ✅
@@ -28,8 +23,49 @@ These problems keep the **window size fixed (k)** while sliding across the array
 
 ### Pattern Building Questions
 
-10. Maximum Sum of Distinct Subarrays With Length K — (LeetCode) ✅
-11. Minimum Difference Between Highest and Lowest of K Scores — (LeetCode) ✅
-12. Grumpy Bookstore Owner — (LeetCode)
+11. Maximum Sum of Distinct Subarrays With Length K — (LeetCode) ✅
+12. Minimum Difference Between Highest and Lowest of K Scores — (LeetCode) ✅
+13. Grumpy Bookstore Owner — (LeetCode)
+
+## 2. Variable Size Sliding Window Practice Problems
+
+### Beginner Level
+
+1. Longest Substring Without Repeating Characters — (LeetCode) ✅
+
+2. Maximum Consecutive Ones III — (LeetCode) ✅
+
+3. Longest Repeating Character Replacement — (LeetCode)
+
+4. Smallest Subarray with Sum Greater Than X — (GeeksforGeeks) ✅
 
 ---
+
+### Medium Level
+
+6. Minimum Size Subarray Sum — (LeetCode) ✅
+
+7. Fruit Into Baskets — (LeetCode)
+
+8. Longest Substring with At Most K Distinct Characters — (LeetCode) ✅
+
+9. Count Number of Nice Subarrays — (LeetCode)
+
+10. Binary Subarrays With Sum — (LeetCode)
+
+11. Longest Subarray of 1s After Deleting One Element — (LeetCode) ✅
+
+12. Longest Subarray with Sum K — (GeeksforGeeks)
+
+---
+
+### Hard Level
+13. Subarrays with K Different Integers — (LeetCode)
+
+14. Minimum Window Substring — (LeetCode)
+
+15. Count Subarrays With Score Less Than K — (LeetCode)
+
+16. Number of Substrings Containing All Three Characters — (LeetCode)
+
+17. Longest Substring with At Most Two Distinct Characters — (LeetCode) 👑

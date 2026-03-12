@@ -45,27 +45,29 @@
 
 6. Minimum Size Subarray Sum — (LeetCode) ✅
 
-7. Fruit Into Baskets — (LeetCode)
+7. Fruit Into Baskets — (LeetCode) ✅
 
 8. Longest Substring with At Most K Distinct Characters — (LeetCode) ✅
 
-9. Count Number of Nice Subarrays — (LeetCode)
+9. Count Number of Nice Subarrays — (LeetCode) ✅
 
-10. Binary Subarrays With Sum — (LeetCode)
+10. Binary Subarrays With Sum — (LeetCode) ✅
 
 11. Longest Subarray of 1s After Deleting One Element — (LeetCode) ✅
 
 12. Longest Subarray with Sum K — (GeeksforGeeks)
 
+13. Frequency of the Most Frequent Element - (LeetCode)
+
 ---
 
 ### Hard Level
-13. Subarrays with K Different Integers — (LeetCode)
+13. Subarrays with K Different Integers — (LeetCode) ✅
 
 14. Minimum Window Substring — (LeetCode)
 
 15. Count Subarrays With Score Less Than K — (LeetCode)
 
-16. Number of Substrings Containing All Three Characters — (LeetCode)
+16. Number of Substrings Containing All Three Characters — (LeetCode) ✅
 
 17. Longest Substring with At Most Two Distinct Characters — (LeetCode) 👑

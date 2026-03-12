@@ -24,7 +24,7 @@
 
 ---
 
-## 4️⃣ VERTICAL ORDER (🔥 FOUNDATION)
+## 4️⃣ VERTICAL ORDER (FOUNDATION)
 13. Vertical Order Of Binary Tree ✅ 
 14. Vertical Order Of Binary Tree – Method 2  ✅
 
@@ -42,7 +42,7 @@
 
 ---
 
-## 7️⃣ ADVANCED VERTICAL / SHADOW 🔥
+## 7️⃣ ADVANCED VERTICAL / SHADOW
 19. Vertical Order Sum – BFS  ✅
 20. Vertical Order Sum – DFS  ✅
 21. Vertical Order Sum – Shadow Technique ✅
@@ -78,7 +78,7 @@
 
 ---
 
-## 1️⃣1️⃣ TREE CONSTRUCTION (INORDER KING 👑)
+## 1️⃣1️⃣ TREE CONSTRUCTION (INORDER KING)
 38. Construct BT from Preorder & Inorder  ✅
 39. Construct BT from Postorder & Inorder  ✅
 40. Construct BT from Inorder & Level Order ✅ 

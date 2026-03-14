@@ -23,12 +23,6 @@ This repository includes commonly used DSA topics such as:
 - **Binary Trees** (comprehensive notes in Markdowns/)
 - **Intervals** (pattern notes in Markdowns/)
 
-### 📝 Learning Resources
-- **Tree Markdown.md** - Comprehensive binary tree algorithms and patterns
-- **Intervals Markdown.md** - Interval pattern and line sweep problems
-
-*(Total: 115+ Java programs across all topics)*
-
 ---
 
 ## 🎯 Purpose
